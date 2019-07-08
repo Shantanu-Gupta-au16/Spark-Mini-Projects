@@ -1,2 +1,2 @@
-# Spark-Projects
+# Spark-Mini-Projects
 Learn Spark with Python
